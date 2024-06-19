@@ -1,0 +1,60 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: selva
+  annotations:
+    confluence/page: selva
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Wed Jun 19 2024 16:34:42 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: admin
+  lifecycle: experimental
+  version: selva
+  projectInfo:
+    projectName: selva
+    moduleName: ''
+    informationAuthor: admin
+    modality: ''
+    bodyParts: ''
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: ''
+    sourceCodeLanguage: ''
+    developmentStatus: ''
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: ''
+    TRL: NICE
+    projectStatus: ''
